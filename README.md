@@ -1,2 +1,2 @@
-# Vinutha-S
- SMS Spam detection Model using ML
+
+# SMS Spam detection Model using ML
